@@ -1,0 +1,12 @@
+{
+  "n": 40000,
+  "base_rate": 0.1532,
+  "auc_honest": 0.8087,
+  "auc_leaky": 0.943,
+  "precision_at_10_honest": 0.5183,
+  "precision_at_10_leaky": 0.8508,
+  "auc_inflation": 0.1343,
+  "leaking_features": [
+    "call_duration"
+  ]
+}

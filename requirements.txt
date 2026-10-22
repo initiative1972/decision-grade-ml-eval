@@ -1,0 +1,4 @@
+# Pinned for reproducible numbers. numpy's PCG64 stream and scikit-learn's
+# deterministic solvers make the committed results exactly reproducible.
+numpy==2.1.1
+scikit-learn==1.5.2

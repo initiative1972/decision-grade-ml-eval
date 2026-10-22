@@ -1,0 +1,23 @@
+{
+  "title": "The Leak Is the Finding: Feature-Contract Auditing and the Propensity-vs-Uplift Trap in Decision-Grade ML Evaluation",
+  "description": "Two reproducible synthetic case studies on decision-grade ML evaluation: (1) target leakage via a post-outcome feature and a feature-contract audit that recovers honest performance; (2) the propensity-vs-uplift trap, where ranking by propensity-to-convert selects a negative-treatment-effect segment while a two-model uplift estimator recovers the incremental effect. All results are deterministic and reproducible from code.",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Yan, Henry",
+      "affiliation": "Independent"
+    }
+  ],
+  "keywords": [
+    "machine learning evaluation",
+    "data leakage",
+    "feature contract",
+    "uplift modeling",
+    "propensity modeling",
+    "causal inference",
+    "reproducibility"
+  ]
+}
